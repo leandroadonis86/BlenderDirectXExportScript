@@ -7,7 +7,7 @@ Adapted\Modified Exporter script for Blender 2.69 to export models (.x) extensio
 
 **Tested on:**
 
-Windows XP SP3 with Blender 2.69, full compactible with Directx 8.1 SDK for VB6 (dx8vb.dll).
+Windows XP SP3 with Blender 2.69, full compatible with Directx 8.1 SDK for VB6 (dx8vb.dll).
 This script was adapted and modified from 2 other scripts **Arben (Ben) Omari** and **Chris Foster** links below.
 
 **From __init__.py:**
