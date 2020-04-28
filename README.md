@@ -79,9 +79,10 @@ This script was adapted and modified from 2 other scripts **Arben (Ben) Omari** 
 ```
 
 **Setup:**
-- Place the folder "io_scene_x" in ..\Blender Foundation\Blender\2.69\scripts\addons
+- Place "io_scene_x" in folder "..\Blender Foundation\Blender\2.69\scripts\addons"
 - Run Blender 2.69
-- Menu "File" > "User preferences..." > (Tab) "Addons" > Import-Export: DirectX .x Format > (check it) > (button) "Save User Settings"
+- Menu "File" > "User preferences..." > (Tab) "Addons" > "Import-Export: DirectX .x Format" ...
+ > (check it) > (button) "Save User Settings"
 
 **Export Options Added:**
 - Export Vertex Duplicates
@@ -89,5 +90,6 @@ This script was adapted and modified from 2 other scripts **Arben (Ben) Omari** 
 **Source Based from:**
 *Vertex Duplicates from previous Blender 2.4v (**Arben (Ben) Omari**):*
 https://github.com/andygeers/directx-exporter/blob/master/DirectXExporter_Geero.py
+
 *Main autor Directx Exporter Script (**Chris Foster**):*
 https://github.com/bwrsandman/blender-addons/blob/master/io_scene_x/export_x.py
