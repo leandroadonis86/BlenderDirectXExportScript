@@ -4,7 +4,10 @@ Adapted\Modified Exporter script for Blender 2.69 to export models to (.x) exten
 **BlenderDirectXExportScript: Directx 8 9 .x with ExportVertexDuplicates for Blender 2.69 r60995**
 
 Adapted\Modified Exporter script for Blender 2.69 to export models (.x) extension DirectX 8, 9, ++ Development.
-**Tested on:** Windows XP SP3 with Blender 2.69, full compactible with Directx 8.1 SDK for VB6 (dx8vb.dll).
+
+**Tested on:**
+
+Windows XP SP3 with Blender 2.69, full compactible with Directx 8.1 SDK for VB6 (dx8vb.dll).
 This script was adapted and modified from 2 other scripts **Arben (Ben) Omari** and **Chris Foster** links below.
 
 **From __init__.py:**
@@ -79,10 +82,10 @@ This script was adapted and modified from 2 other scripts **Arben (Ben) Omari** 
 ```
 
 **Setup:**
-- Place "io_scene_x" in folder "..\Blender Foundation\Blender\2.69\scripts\addons"
-- Run Blender 2.69
-- Menu "File" > "User preferences..." > (Tab) "Addons" > "Import-Export: DirectX .x Format" ...
- > (check it) > (button) "Save User Settings"
+> Place "io_scene_x" in folder "..\Blender Foundation\Blender\2.69\scripts\addons"
+> Run Blender 2.69
+> Menu "File" » "User preferences..." » (Tab) "Addons" » "Import-Export: DirectX .x Format" » ...
+... » (check it) » (button) "Save User Settings"
 
 **Export Options Added:**
 - Export Vertex Duplicates
