@@ -88,8 +88,11 @@ This script was adapted and modified from 2 other scripts **Arben (Ben) Omari** 
 - Export Vertex Duplicates
 
 **Source Based from:**
+
 *Vertex Duplicates from previous Blender 2.4v (**Arben (Ben) Omari**):*
+
 https://github.com/andygeers/directx-exporter/blob/master/DirectXExporter_Geero.py
 
 *Main autor Directx Exporter Script (**Chris Foster**):*
+
 https://github.com/bwrsandman/blender-addons/blob/master/io_scene_x/export_x.py
